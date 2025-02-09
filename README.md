@@ -1,23 +1,23 @@
-# [Project Name] 🎯
+# [WEBPAGE CREATION] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [DREAM]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [NITSA SALU] - [SCHOOL OF ENGINEERING,CUSAT]
+- Member 2: [PAVITHRA P.P] - [SCHOOL OF ENGINEERING,CUSAT]
+
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://grace0508.github.io/dream/]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Creating a simple webpage using html and css.]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[create a webpage]
 
 ### The Solution
 [How are you solving it? Keep it fun!]
@@ -25,7 +25,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,css]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,13 +47,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+!["./image/1.jpg"](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![./image/2.jpg](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![./image/3.jpg](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -70,7 +70,7 @@ For Hardware:
 *Add caption explaining the schematic*
 
 # Build Photos
-![Team](Add photo of your team here)
+!["./image/team.jpg.png"](Add photo of your team here)
 
 
 ![Components](Add photo of your components here)
@@ -84,16 +84,16 @@ For Hardware:
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+["./image/project.mp4"]
 *Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [NITSA]: [CODING AND TYPING]
+- [PAVITHRA]: [CODIND AND FINDING THE SYNTAX]
+
 
 ---
 Made with ❤️ at TinkerHub
